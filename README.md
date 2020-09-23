@@ -5,4 +5,4 @@ we highly recommand run this project from colab link: https://colab.research.goo
 
 otherwise:
   first run note_extractor. it convert dataset midi files to a format we use for proccesing.
-  after the model generated the s.ms, mid_generator convert it to .midi file.
+  after the model generated the s.ms, mid_generator converts it to .midi file.
